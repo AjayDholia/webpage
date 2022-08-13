@@ -9,7 +9,7 @@ function Header() {
       </div>
 
       <div className="logo_portion">
-        <img className="header__logo" src="logo.png" />
+        <img className="header__logo" src="logo.png" alt="k" />
         <h3>
           C.R.I. PUMPS WINS THE NATIONAL ENERGY CONSERVATION AWARD 2018 for the
           4th time.
@@ -28,7 +28,7 @@ function Header() {
           </li>
         </ul>
 
-        <img className="header__logo1" src="2.png" />
+        <img className="header__logo1" src="2.png" alt="k" />
         <p>
           Government of India has awarded the "National Energy Conservation
           Award 2018". Mr. G. Selvaraj, Joint Managing Director of C.R.I. Group

@@ -1,4 +1,4 @@
-import logo from './logo.svg';
+
 import './App.css';
 import Firstsection from './components/Firstsection'
 import Footer from './components/Footer';

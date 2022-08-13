@@ -11,7 +11,7 @@ function Secondsection() {
 
       <img
          className="instruments"
-         src="/3.png"
+         src="/3.png" alt="k" 
       />
       <p className='pa'>Valves - Pumps - Pipes - IoT Drives & Controllers - Wires & Cables - Solar Systems - Motors</p>
       <hr style={{borderColor:"red",margin:"0 0.5rem"}}/>
