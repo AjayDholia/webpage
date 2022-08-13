@@ -18,7 +18,9 @@
 .para{
     margin-left: 20px;
 }
-
+a{
+     text-decoration:none;
+}
 @media screen and (max-width: 480px) {
     .footer{
         display: flex;
