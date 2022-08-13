@@ -19,7 +19,7 @@
     margin-left: 20px;
 }
 
-@media screen and (min-width: 480px) {
+@media screen and (max-width: 480px) {
     .footer{
         display: flex;
     height: 6rem;
