@@ -8,7 +8,7 @@ function Footer() {
          <div class="footer_content">
             {/* <img src=" "/> */}
       
-            <p><a href="tel:18002001234">Toll free 1800 200 1234</p> 
+            <p><a href="tel:18002001234">Toll free 1800 200 1234<a></p> 
             </div>
          <div class="footer_content">
             {/* <img src=""alt=""/> */}
