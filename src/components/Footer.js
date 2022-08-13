@@ -17,7 +17,7 @@ function Footer() {
             </div>
          <div class="footer_content">
             {/* <img src=""alt=""/> */}
-            <p><a href="https://www.crigroups.com/">www.crigroups.com<a></p> 
+            <p><a href="https://www.crigroups.com/">www.crigroups.com</a></p> 
             </div>
     </div>
   )
